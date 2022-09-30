@@ -1,0 +1,16 @@
+
+.navegacion {
+    text-decoration: none;
+    color: rgb(238, 218, 238);
+}
+
+
+.lis li {
+    margin: 10px;
+    color:blueviolet;
+}
+
+.logo{
+    height: 200px;
+    padding: auto;
+}
