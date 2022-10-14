@@ -2,6 +2,7 @@
 .navegacion {
     text-decoration: none;
     color: rgb(238, 218, 238);
+    list-style-type: none;
 }
 
 
